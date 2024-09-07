@@ -3,4 +3,4 @@
 
  Aqui sera reunido vários arquivos de mini jogos em diferentes linguagens, espero que funcione kkkkkkk
 
- Que a prova de segunda me permita fazer uma bricadeiras antes do choro (rindo lagrimas de sangue)
+ Que a prova de segunda me permita fazer umas bricadeiras antes do choro (rindo lagrimas de sangue)
