@@ -1,7 +1,7 @@
 from random import randint
 from time import sleep
 c = randint(1, 3)
-j =int(input('''Suas opções:
+j = int(input('''Suas opções:
       [ 1 ] PEDRA
       [ 2 ] PAPEL
       [ 3 ] TESOURA
@@ -14,7 +14,7 @@ sleep(1)
 print('PO!!!')
 print('-=-=' * 7)
 
-#cj
+# cj
 if c == 1:
     cj = ('Pedra')
 elif c == 2:
@@ -22,7 +22,7 @@ elif c == 2:
 else:
     cj = ('Tesoura')
 
-#jj
+# jj
 if j == 1:
     jj = ('Pedra')
 elif j == 2:
@@ -33,11 +33,11 @@ else:
     jj = ('       ')
 
 print('''Computador jogou {}
-      Joagador jogou {}'''.format(cj,jj))
+      Joagador jogou {}'''.format(cj, jj))
 
 print('-=-=' * 7)
-if j != 1  and j != 2 and j != 3:
-    print ('JOGADOR NÃO JOGOU')
+if j != 1 and j != 2 and j != 3:
+    print('JOGADOR NÃO JOGOU')
 elif c == j:
     print('EMPATE')
 elif c == 1 and j == 2 or c == 2 and j == 3 or c == 3 and j == 1:
