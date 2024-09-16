@@ -6,11 +6,11 @@ j = int(input('''Suas opções:
       [ 2 ] PAPEL
       [ 3 ] TESOURA
 Qual a sua jogada: '''))
-sleep(1)
+sleep(2)
 print('JO')
 sleep(1)
 print('KEN')
-sleep(1)
+sleep(2)
 print('PO!!!')
 print('-=-=' * 7)
 
@@ -33,7 +33,7 @@ else:
     jj = ('       ')
 
 print('''Computador jogou {}
-      Joagador jogou {}'''.format(cj, jj))
+      Jogador jogou {}'''.format(cj, jj))
 
 print('-=-=' * 7)
 if j != 1 and j != 2 and j != 3:
