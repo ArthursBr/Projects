@@ -1,6 +1,4 @@
-# Projeto-Mini-jogos
+# Mini projects
  Teste de integração ao git
 
- Aqui será reunido vários arquivos de mini jogos em diferentes linguagens, espero que funcione kkkkkkk
-
- Que a prova de segunda me permita fazer umas bricadeiras antes do choro (rindo lagrimas de sangue).
+ Aqui será reunido vários arquivos de mini projetos em diferentes linguagens, com o objetivo de documentar cada passo.
